@@ -6,15 +6,15 @@ If you run into any errors during this guide, check the [Errors and Solutions](h
 
 ### 64bit Windows 10
 
-Download Ruby+Devkit 2.5.1-1 (x64) from https://rubyinstaller.org/downloads/
+Download Ruby+Devkit 2.7.4-1 (x64) from https://rubyinstaller.org/downloads/
 
-[Ruby+Devkit 2.5.1-1 (x64)](https://github.com/oneclick/rubyinstaller2/releases/download/rubyinstaller-2.5.1-1/rubyinstaller-devkit-2.5.1-1-x64.exe)
+[Ruby+Devkit 2.7.4-1 (x64)](https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-2.7.4-1/rubyinstaller-devkit-2.7.4-1-x64.exe)
 
 ### 32bit Windows 10
 
-Download Ruby+Devkit 2.5.1-1 (x86) from https://rubyinstaller.org/downloads/
+Download Ruby+Devkit 2.7.4-1 (x86) from https://rubyinstaller.org/downloads/
 
-[Ruby+Devkit 2.5.1-1 (x86)](https://github.com/oneclick/rubyinstaller2/releases/download/rubyinstaller-2.5.1-1/rubyinstaller-devkit-2.5.1-1-x86.exe)
+[Ruby+Devkit 2.7.4-1 (x86)](https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-2.7.4-1/rubyinstaller-devkit-2.7.4-1-x86.exe)
 
 
 ### Run Ruby Installer
